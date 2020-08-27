@@ -1,9 +1,9 @@
-# LightCurveStats
-tools for collecting light curve statistics to narrow target sample searches
 
 <hr>
 <br />
 <div align="center">
+<h3>LightCurveStats</h3>
+<h5>tools for collecting light curve statistics to narrow target sample searches</h5>
 <img align="center" src="Images/lc-ex2.png" width="400" /> 
 <img align='left' src="Images/lc-ex1.png" width="400" /> 
 <img align='right' src="Images/lc-ex3.png" width="400" /> 
