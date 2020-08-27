@@ -19,13 +19,13 @@
 
 # Description
 
-Tools for collecting the following light curve statistics for preliminary target sample size reduction or identification: Rvar, Lomb-Scargle (LS) Periodogram top three power amplitudes with corresponding rotation periods, Box-Least-Squares (BLS) orbital period, highest power amplitude, transit depth, transit duration, transit time. 
+Tools for collecting the following light curve statistics for preliminary target sample size reduction or identification: Rvar, Lomb-Scargle (LS) Periodogram top three power amplitudes with corresponding rotation periods, Box-Least-Squares (BLS) orbital period, highest power amplitude, transit depth, transit duration, transit time.__
 Can be used with light curve data (time, flux, flux_err arrays) from any instrument, but has been optimized for TESS 2-minute cadence targets with Teff <6500 K. A Light Curve is a time-series dataset of stellar flux observations. Contains example notebooks for downloading TESS 2-minute cadence data by sector and gathering stellar parameters from the TESS Input Catalog. Note that currently these tools are for preliminary sample reduction purposes only. Future updates will validate output statistic precisions. Current pipeline has suggested accuracy based on Kepler vetted catalogs as shown at bottom of the example notebook.
 
 ## Instructions
 1. Follow guide in `download_data` notebook to obtain TESS 2-minute cadence light curve data
 2. Download .py files and run.py files 
-3. Use run.py files to calculate light curve statistics saved in a DataFrame
+3. Use run.py files to calculate light curve statistics saved to a DataFrame
 4. Evaluate statistical outputs for preliminary target reductions, see example usage 
 
 
