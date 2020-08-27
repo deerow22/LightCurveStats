@@ -25,7 +25,7 @@ Can be used with light curve data (time, flux, flux_err arrays) from any instrum
 ## Instructions
 1. Follow guide in `download_data` notebook to obtain TESS 2-minute cadence light curve data
 2. Download .py files and run.py files 
-3. Use run.py files to calculate light curve statistics saved to a DataFrame
+3. Use run.py files to calculate light curve statistics and save to a DataFrame
 4. Evaluate statistical outputs for preliminary target reductions, see example usage 
 
 
