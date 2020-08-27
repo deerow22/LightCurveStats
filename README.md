@@ -1,8 +1,9 @@
 # LightCurveStats
 tools for collecting light curve statistics to narrow target sample searches
 <br />
-<img align='left' src="Images/lc-ex1.png" width="200" /> 
+
 <img align="center" src="Images/lc-ex2.png" width="400" /> 
+<img align='left' src="Images/lc-ex1.png" width="200" /> 
 <img align='right' src="Images/lc-ex3.png" width="200" /> 
 <br />
 
