@@ -2,7 +2,7 @@
 <hr>
 <br />
 <div align="center">
-<h3>LightCurveStats</h3>
+<h1>LightCurveStats</h1>
  <div><div align="center" width=100px>
 <h5>tools for collecting light curve statistics to narrow target sample searches</h5>
 <img align="center" src="Images/lc-ex2.png" width="400" /> 
