@@ -1,5 +1,6 @@
 import BLS
 import LS
+import numpy as np
 
 def test_open_mylcs():
     tic1= 7582633; sector1=14

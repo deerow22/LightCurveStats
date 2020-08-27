@@ -54,7 +54,7 @@ def run_BLS(sector,tics,datapath,saveresultspath):
 	sec_table = Table([Secids,Secperiods,Secpowers,Secdepths,Secdurs,Sectts],
 		names=('TIC','period_bls','power_bls','depth_bls','dur_bls','tt_bls'))
 
-	ascii.write(sec_table, '{}/Sec{}_bls_stats.csv'.foramt(fn,sector),format='csv', overwrite=True) 
+	ascii.write(sec_table, '{}/Sec{}_bls_stats.csv'.format(fn,sector),format='csv', overwrite=True) 
 	print(' F  I  N  I  S  H  E  D') 
 
 	return sec_table
