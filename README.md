@@ -1,7 +1,7 @@
 # LightCurveStats
 tools for collecting light curve statistics to narrow target sample searches
 
-![image](Images/lc-ex1)
+![image](Desktop/AMNH/LightCurveStats/Images/lc-ex1)
 ![image](Images/lc-ex2)
 ![image](Images/lc-ex3)
 # Description
