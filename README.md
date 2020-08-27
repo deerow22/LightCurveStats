@@ -25,7 +25,7 @@ Tools for collecting the following light curve statistics for preliminary target
 Follow guide in `download_data` notebook to obtain data, download .py files and use run.py files to calculate light curve statistics in a DataFrame. 
 To narrow a search for planet hosting stars while avoiding eclipsing binaries: Use collected statistics to isolate targets with high BLS power amplitudes but low R_var with different period values from BLS and LS, to increase potential sample of magnetically stable stars with transit detections. 
 
-# Dependencies
+### Dependencies
 - astropy
 - glob
 - lightkurve
