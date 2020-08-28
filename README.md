@@ -34,20 +34,20 @@ To narrow a search for planet hosting stars while avoiding eclipsing binaries:
 Use collected statistics to isolate targets with high BLS power amplitudes but low R_var with different period values from BLS and LS, to increase potential sample of magnetically stable stars with transit detections. 
 
 ### Dependencies
-- astropy
-- glob
-- lightkurve
-- matplotlib
-- numpy
-- os
-- pandas
-- scipy
-- starspot
-- time
-- tqdm
+- [astropy](https://www.astropy.org)
+- [glob](https://docs.python.org/3/library/glob.html?#module-glob)
+- [lightkurve](https://docs.lightkurve.org/#)
+- [matplotlib](https://matplotlib.org)
+- [numpy](https://numpy.org)
+- [os](https://docs.python.org/3/library/os.html?#module-os)
+- [pandas](https://pandas.pydata.org)
+- [scipy](https://www.scipy.org/install.html)
+- [starspot](https://github.com/RuthAngus/starspot)
+- [time](https://docs.python.org/3/library/time.html)
+- [tqdm](https://pypi.org/project/tqdm/2.2.3/)
 
 
 ### License & attribution
 
 &copy; 2020 Danielle Rowland;
-The source code is made available under the terms of the MIT license.
+The source code is made available under the MIT license. See `LICENSE` file for terms.
