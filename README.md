@@ -49,6 +49,5 @@ Use collected statistics to isolate targets with high BLS power amplitudes but l
 
 ### License & attribution
 
-Copyright 2020 Danielle Rowland.
+&copy; 2020 Danielle Rowland;
 The source code is made available under the terms of the MIT license.
-If you make use of this code, please cite this package and its dependencies.
