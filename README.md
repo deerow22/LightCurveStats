@@ -35,6 +35,7 @@ Use collected statistics to isolate targets with high BLS power amplitudes but l
 
 ### Dependencies
 - [astropy](https://www.astropy.org)
+- [batman](https://www.cfa.harvard.edu/~lkreidberg/batman/)
 - [glob](https://docs.python.org/3/library/glob.html?#module-glob)
 - [lightkurve](https://docs.lightkurve.org/#)
 - [matplotlib](https://matplotlib.org)
