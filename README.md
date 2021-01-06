@@ -30,8 +30,6 @@ Can be used with light curve data (time, flux, flux_err arrays) from any instrum
 
 
 ## Example Usage
-To narrow a search for planet hosting stars while avoiding eclipsing binaries: 
-Use collected statistics to isolate targets with high BLS power amplitudes but low R_var with different period values from BLS and LS, to increase potential sample of magnetically stable stars with transit detections. 
 
 ### Dependencies
 - [astropy](https://www.astropy.org)
